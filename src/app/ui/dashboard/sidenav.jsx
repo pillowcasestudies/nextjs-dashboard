@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import NavLinks from './app/ui/dashboard/nav-links';
+import NavLinks from './nav-links';
 import AcmeLogo from '../acme-logo.jsx';
 import { PowerIcon } from '@heroicons/react/24/outline';
 
